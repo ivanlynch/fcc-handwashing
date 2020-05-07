@@ -540,7 +540,7 @@ var app = (function () {
 
     			t7 = space();
     			audio_1 = element("audio");
-    			audio_1.innerHTML = `<source src="sound.wav">`;
+    			audio_1.innerHTML = `<source src="./sound.wav">`;
     			attr(h1, "class", "svelte-1q4tgwe");
     			attr(h3, "class", "svelte-1q4tgwe");
     		},
