@@ -20,5 +20,5 @@
 </h3>
 
 <audio bind:this={audio}>
-    <source src="sound.wav" />
+    <source src="./sound.wav" />
 </audio>
