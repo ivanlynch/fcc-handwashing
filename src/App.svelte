@@ -11,7 +11,7 @@
         text-align: center;
     }
 </style>
-<h1>Handwashing App</h1>
+<h1>Handwashing</h1>
 <Timer on:end={timerEnds}/>
 <HowTo />
 <h3>
